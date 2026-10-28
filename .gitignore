@@ -1,0 +1,5 @@
+# Local JDK distribution (install/configure separately; do not commit it).
+/oracleJdk-27/
+
+# Compiled Java bytecode.
+*.class
